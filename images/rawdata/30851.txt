@@ -1,0 +1,5 @@
+30851, Mana Mordecai, andreasevoy@gmail.com, 39650 US Hwy 190 #634, Potomac   ,         TX   ,   42377, 3661558343,
+        US   ,  MALE, Saturday 03/01/1941,     167   ,  168,    B+ ,     Mana Mordecai ,Norman Allen ,SAN          DIEGO,
+        AZ   ,  45538, US   ,    N.A  ,   NO     ,NO    ,  YES    ,NO  ,    NO ,     N.A  ,  Saturday 03/01/1941 ,  $150.00,
+        Mana Mordecai, Thomas Barton, BaX_01acM-2872, Saturday 03/01/1941  ,   MALE ,Other, ZOLOFT, 0.25 MG, 90,
+        $4.30 ,$130.00, $20.00, $150.00

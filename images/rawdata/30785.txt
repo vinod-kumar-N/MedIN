@@ -1,0 +1,5 @@
+30785, Lide Mcivor    ,   sylviamartin110@gmail.com     , 903 South Harrison ,    La Mesa ,IA ,    79233, 7094210269,
+        US  ,    MALE ,Friday 12/21/1956 ,       175  ,   185  ,  B+   ,   Lide Mcivor    , Josh Sampson ,Weymouth,
+        CA  ,    97912, US  ,     N.A   ,  NO     , NO   ,   YES  ,  N.A  ,   N.A   ,  Zc_Blan_477  ,  Friday     12/21/1956,
+        $300.00, Lide Mcivor  ,  Michael Maness, BaX_01aCp_23531 ,        Friday 12/21/1956 ,    MALE ,Visa     ,  VALIUM,
+        37.5 MG ,90   ,   $6.25 ,$387.00, $20.00, $407.00

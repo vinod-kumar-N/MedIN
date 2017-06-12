@@ -1,0 +1,5 @@
+30836, Golen Hoegerl, jwbrooks8@bellsouth.net, 1259 S Cypriss Avi.  ,   Fontana, CA   ,  45314 ,3177779998  ,     US,
+        MALE ,05/27/1956  ,     175 ,    168  ,  A+  ,    Golen Hoegerl ,Jesse Johnson ,Westville     ,   FL   ,   59758,
+        US  ,   N.A  ,   NO   ,  YES  ,   YES ,   YES,     NO  ,    Gz-09_OPxt3877, 05/27/1956,    $250.00, Golen  Hoegerl,
+        Janice Bonner-Davis ,  BaX_01aCp_19835 ,       05/27/1956   ,  MALE ,Bank ,VALIUM ,10 MG ,120 ,           $2.86 ,
+        $375.00, $20.00, $395.00

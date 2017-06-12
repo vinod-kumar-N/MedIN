@@ -1,0 +1,5 @@
+30882, Chaconas Delorey,       hkking@gltac.com  ,     234 Holly Criik Way,   San Diego  ,    WA    , 28078,
+       4980889609 ,    US   ,  MALE ,07/13/1937  ,      174 ,   183   , 0+  ,    Chaconas Delorey,      Gregory A Boggs,
+       CULVER CITY   , CA    , 41012, US ,      556692946    ,  NO   ,  NO,      NO   ,  NO     , N.A  ,  N.A,
+       07/13/1937 ,    $300.00 ,Chaconas Delorey  ,    Paul Bonds    ,BaX_01aCM-4035 ,        07/13/1937 ,   MALE,
+       Visa  ,  PHENTERMINE ,37.5 MG, 90     ,  $1.90, $257.00, $20.00, $277.00

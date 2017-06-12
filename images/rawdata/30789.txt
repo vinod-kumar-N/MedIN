@@ -1,0 +1,5 @@
+30789, Elbaz Gehling   ,  karen.dandrea@dealertrack.com ,7149 Loni Oak Traci  ,   STONEVILLE,     DE  ,    84625,
+        9531783870 ,     US ,    FEMALE ,Monday 04/08/1963,      175  ,   175  ,   A+     , Elbaz Gehling , Theresa     Nye,
+        WINTER HAVEN, AL ,       12362, US,        2097104020  ,   NO   ,   YES  ,   YES  ,   N.A ,   N.A ,    ZtA09vB1487,
+        Monday 04/08/1963,     $200.00, Elbaz Gehling ,  Sara Buchanan, BaX_01aCp_22338 ,        Monday      04/08/1963,
+        FEMALE, Discover ,PHENTERMINE, 10 MG ,120,          $3.94, $310.00, $20.00 ,$330.00

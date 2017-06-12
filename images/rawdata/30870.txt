@@ -1,0 +1,5 @@
+30870, Lidtke Mckale ,    jeff@jeffscullion.com,   31071 AugustaDrivi   ,  SAPULPA ,        CA ,     89212, 5006541917,
+        US  ,    FEMALE, 06/18/1961,       168,     178  ,  B+   ,   Lidtke Mckale,   Kenneth L. Nash ,SAN DIEGO  ,     MS,
+        39667, US  ,      7080035182 ,     NO    ,  NO    , YES  ,   YES     ,N.A ,    Gz-09_0Pxt3271 ,06/18/1961   ,    $300.00,
+        Lidtke Mckale ,  Dick Pagan  ,    BaX_OlaCo-3848, N.A     ,FEMALE, Retail, VALIUM, 10 MG ,90 ,          52.86 ,$505.00,
+        $20.00, $525.00

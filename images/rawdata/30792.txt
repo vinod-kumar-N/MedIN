@@ -1,0 +1,5 @@
+30792, Goleman Hoefling   ,    ivanulz@prodigy.net ,  3 BRISTOL CIRCLi ,NAPLES ,CA  ,  12600, 2417946375   ,   US,
+       FEMALE, 04/25/1955  ,   162     ,170  ,  A  ,    Goleman Hoefling   ,   Margaret Canter ,Norwalk, CA  ,  68422,
+       US    ,  2638019670 ,   NO    ,  NO    , NO   ,  NO  ,    NO ,    Yt_i7-Un-10760 ,04/25/1955,    $250.00,
+       Goleman Hoefling  ,    Theodore W Plummer ,   BaX_01aCp_12504 ,      04/25/1955   ,  FEMALE ,Other,
+       LORAZEPAM  ,    10 MG ,90 ,      $4.17, $375.00, $20.00 ,$395.00

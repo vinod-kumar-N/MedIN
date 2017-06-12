@@ -1,0 +1,4 @@
+30794, Keplin Leopold, cjunderhill@cs.com  ,   690 Glinsprings Lani , Alta Loma,      TX   ,  33759, 3747719108,
+       US,      MALE ,  05/27/1956  ,   185  ,  168 ,   AB+ ,    Keplin Leopold ,Tania Judy ,   dorchester ,    CA,
+       31726, US ,      N.A ,   YES,     YES ,   YES   , NO ,     YES ,   N.A ,   05/27/1956 ,    $250.00, Keplin Leopold,
+       Bob White  ,    BaX_OlacM-2041,N.A  ,   MALE ,Bank, XANAX, 1 MG, 90  ,$1.90, $505.00, $20.00 ,$525.00

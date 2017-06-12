@@ -1,0 +1,5 @@
+30773, Kunishige Mahall, beptin@capital.net  ,     1827 NW 128 TR., worthington ,    MS  ,    73025 ,1476935201    ,    US,
+        MALE ,Friday 07/27/1962,         170,     182 ,    AB+ ,    Kunishige Mahall, Wayne A Powell, pacific, CA,      N.A,
+        US ,     7879289807 ,     YES  ,   YES   ,  NO   ,   NO  ,    N.A ,    Qa_iyZ830,       N.A    , $200.00, Kunishige Mahall,
+        James Baty ,     BaX_OlaCp_9049, Friday 07/27/1962 ,      MALE ,Other ,XANAX ,5 MG, 90  ,              $6.67, $503.00 ,
+        $20.00, $523.00

@@ -1,0 +1,5 @@
+30813, Frohock Hamdn, already2doit@yahoo.com, 2000 hall rd  ,      Vallejo, NY   ,   N.A  ,   2627541964  ,    US  ,    MALE,
+        Friday 09/27/1946 ,     167  ,   180,     B+ ,    Frohock Hamdn ,Cynthia Judge, HANFORD  ,           FL   ,   96175,
+        US ,     9861747709,      NO ,     NO ,     YES,    NO  ,    N.A,     N12aXp256  ,     Friday 09/27/1946     , $250.00,
+        Frohock Hamdn ,Plutarco Orozco, BaX_OlaCo-527, Friday 09/27/1946    ,     MALE, Gas    ,    ZOLOFT ,37.5 MG ,30 ,
+        $2.08, $484.00, $20.00, $504.00

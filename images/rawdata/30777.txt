@@ -1,0 +1,5 @@
+30777, Dopf Francois,     jameskuri@comcast.net, 2447 10th Striit, Bernhard Bay ,    mi ,     748136 ,6734989408  ,     US,
+        FEMALE, 03/25/1950,       168 ,    180   ,  0+ ,     Dopf Francois ,  William Couture, Providence,      N.A  ,   N.A,
+        US  ,    7843886689,      YES  ,   YES,     NO  ,    NO,      NO   ,   yWzX_092_7706, 03/25/1950    ,    $350.00, Dopf
+Francois ,John Spriggs,   BaX_01acM-7719,03/25/1950    ,    FEMALE, Visa,     CLONAZEPAM, 10 MG, 120       ,     $4.28 ,$505.00,
+        $20.00 ,$525.00

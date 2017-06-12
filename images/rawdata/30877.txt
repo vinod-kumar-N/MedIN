@@ -1,0 +1,5 @@
+30877, Juart Lannen  ,    jpsirtripsalot@aol.com  ,16772 Ashford,Chesapeake    ,    OH   ,   57604 ,8992850129      , US,
+        FEMALE, 05/27/1956   ,    183 ,    182  ,   A+  ,    Juart Lannen   , Daniel Shaheen, MIAMI SHORES, CA  ,       53499,
+        US    ,  N.A ,    YES,     YES ,    NO   ,   NO   ,   N.A  ,   yWzX_092_4736 ,05/27/1956  ,     $250.00, Juan    Lannen,
+        Darrin Johnson ,BaX_OlaCp_5499, 05/27/1956  ,      FEMALE, Other, XANAX, 37.5 MG, 90  ,        $1.72, $375.00, $20.00 ,
+        $395.00

@@ -1,0 +1,5 @@
+30880, Lie Mckamey ,      vote@guyhughes.ca,       3925 North Point Road, HAINES CITY ,      CA   ,  74304, 7695032922,
+        US     , FEMALE ,04/14/1951  ,     170 ,    165     ,A+  ,    Lie Mckamey  ,   Katherine Hoffmann   ,  Baltimore,
+        MI     , 88136, US    ,    N.A   ,  YES    , NO    ,  YES  ,   NO     , NO  ,    yWzX_092_8118 ,NA  ,     $250.00, Lie
+Mckamey ,        Carl Hamann  ,   BaX_01aCo-2667 ,04/14/1951   ,    FEMALE ,Discover ,AMBIEN ,37.5 MG,90  ,    $1.86 ,$375.00, 
+        $20.00, $395.00

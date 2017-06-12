@@ -1,0 +1,5 @@
+30811, Elbers Gehman, cmccrary@talkamerica.net,           15173 Mannanta St  ,     BURKEVILLE  ,    CA   ,   28320,
+        6530227973 ,     US  ,    FEMALE, Tuesday 06/26/1962,     170  ,   174  ,   A+  ,    Elbers Gehman, Jean Williams,
+        PALO ALTO   ,    FL  ,    N.A ,    US    ,  4332957245    , YES  ,   NO   ,   NO     , YES   ,  N.A  ,   N.A,
+        Tuesday 06/26/1962 ,    $350.00 ,Elbers Gehman, Corae Bardell  ,  BaX_01acM-2096, Tuesday 06/26/1962,       FEMALE,
+        American Express,PHETNERMINE, 5 MG, 90   ,         $4.32, $355.00, $20.00 ,$375.00

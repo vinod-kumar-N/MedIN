@@ -1,0 +1,5 @@
+30865, Frolich Hamelin, jameschesnet@aol.com, Athins-Wistmont Businiss Cintir,     Coolidge,CA      ,47290 ,5670808161,
+        US  ,    MALE ,Sunday 06/02/1957  ,       182,    185  ,   A++  ,   Frolich Hamelin ,Allaire Robert , POMPANO
+BEACH ,WA  ,      11909 ,US   ,     N.A,     NO   ,   YES   , NO   ,   YES    , NO ,     Yt_i7-Un-3349, Sunday        06/02/1957,
+        $250.00, Frolich Hamelin ,Jesus Contreras, BaX_01aCp_18012 ,       Sunday 06/02/1957 ,     MALE ,Bank ,XANAX,
+        37.5 MG, 60  ,    $4.30, $171.00, $20.00, $191.00

@@ -1,0 +1,5 @@
+30847, Juares Lann,      judymyers581737@cs.com ,        713 st pitirs, courtRed Hook,   IA ,     22808, 5696055443,
+        US,     MALE ,Sunday 10/03/1965 ,       174    , 170   , N.A,     Juares Lann  ,  William ,CORONA    ,     DC,
+        N.A   , US  ,    N.A  ,   YES,    NO  ,    YES   ,  YES ,   YES,     Qa_iy2915     , Sunday 10/03/1965,     $150.00,
+        Juares Lann  ,  Emil Silvan Damsyik,    N.A  ,   Sunday 10/03/1965   ,  MALE ,Bank   ,   XANAX ,37.5 MG, 90 ,
+        $1.90 ,$257.00, $20.00, $277.00

@@ -1,0 +1,5 @@
+30853, Dopson Frandeen,tobby.fried@sbcglobal.net ,      3108 Oakridgi V, Barstow, FL  ,  2682,    1554740984    , US,
+        MALE ,Tuesday 06/26/1962 ,     165   , 172,     0+ ,    Dopson Frandeen,Shannon Malmstrom ,     Hanford, GA,
+        30032, US,       N.A ,   NO ,     NO  ,   N.A  ,   NO     ,YES ,    Qa_iy24025,     Tuesday 06/26/1962  ,  $250.00,
+        Dopson Frandeen,Holden White ,BaX_01aCp_20563 ,        Tuesday 06/26/1962,    MALE, Discover ,CLONAZAPAM,
+        5 MG, 90,        $1.90 ,$400.00 ,$20.00, $420.00

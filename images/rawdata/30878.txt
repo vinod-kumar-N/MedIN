@@ -1,0 +1,5 @@
+30878, Keppner Lepera ,jamesbrock@cableone.com ,           19107 17th st, Red Hook  ,        VA  ,   53549 ,1625689095,
+        US   ,   FEMALE ,09/30/1959  ,     182 ,    172  ,   AB  ,    Keppner Lepera ,Anne Chachere, BELLEVUE   ,       TX,
+        72151, US    ,    7080035182   ,   NO   ,   NO  ,    NO    ,  YES,     NO  ,    Yt024_Re186 ,   09/30/1959    ,  $150.00,
+        Keppner Lepera, Eric Hand ,       BaX_OlaCp_2067,09/30/1959,        FEMALE ,American Express,AMBIEN ,2 MG, 30,
+        $5.92 ,$171.00, $20.00, $191.00

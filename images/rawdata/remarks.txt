@@ -1,0 +1,17 @@
+STM_Code and DOB is Merged.
+Card Name and Medicine
+
+
+
+
+PhNo_2 is Missing.
+
+
+PhNo_2, Zip_2, D_B_Life_Assure and Tablets is Missing.
+
+
+Card Name and Medicine is Merged
+
+Blood Group is Invalid.
+
+Email Address and Res Address is Merged.
